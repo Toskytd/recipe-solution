@@ -90,6 +90,11 @@ p,li{color: hsl(30, 10%, 34%)}
 }
 .instruct li{
     margin-bottom: 20px;
+
+}
+.taste ul ::marker, .instruct ol ::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
 }
 .nut h2{
     margin-bottom: 20px;
